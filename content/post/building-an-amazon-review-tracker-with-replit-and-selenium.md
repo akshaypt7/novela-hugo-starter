@@ -5,7 +5,6 @@ title: Building an Amazon review Tracker with Replit and Selenium
 excerpt: ''
 date: 
 hero: ''
-draft: true
 
 ---
 # Using Replit, Selenium and SMTP to Create an Amazon Review Tracker

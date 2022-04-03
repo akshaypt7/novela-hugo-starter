@@ -19,8 +19,9 @@ fields:
 - name: avatar
   type: file
   config:
-    maxSize: 250
+    maxSize: 
   label: Avatar Image
+  default: "/images/akshay-ranjith-pt-logos.jpeg"
 - name: social
   type: field_group_list
   fields:

@@ -3,7 +3,7 @@ hero:
   heading: Akshay's Blog
   maxWidthPX: "652"
 seo:
-  image: "/images/hero-2.jpg"
+  image: ''
 
 ---
-Akshay's first blog
+![](/images/akshay-ranjith-pt-logos.jpeg)Akshay's first blog

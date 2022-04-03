@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/a-brief-description-on-resnet.md
 - content/post/building-an-amazon-review-tracker-with-replit-and-selenium.md

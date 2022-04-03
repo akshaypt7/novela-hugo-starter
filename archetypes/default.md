@@ -1,11 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-hero: /images/hero-3.jpg
+hero: /static/images/akshay-ranjith-pt-logos.jpeg
 excerpt: "A default excerpt"
 timeToRead: 5
 authors:
-  - Dennis Brotzky
+  - Akshay Ranjith
 draft: true
 ---
 
